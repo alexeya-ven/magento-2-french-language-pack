@@ -14296,3 +14296,10 @@
 "My Account","Mon compte",theme,frontend/Magento/luma
 "Address Book","Carnet d’adresses",theme,frontend/Magento/luma
 "Account Information","Informations du compte",theme,frontend/Magento/luma
+"Your %storeName Order #%orderNumber confirmation","Votre %storeName de commande #%orderNumber confirmation",module,Magento_Email
+"We’ve received your refund request to the jewelry items shown below from %store_name.","Nous avons reçu votre demande de remboursement pour les articles de bijoux présentés ci-dessous de %store_name.",module,Magento_Sales
+"Your refund should hit your account between 3-5 business days.","Votre remboursement devrait toucher votre compte entre 3-5 jours ouvrables.",module,Magento_Sales
+"If you have any questions, you can email us at <a href='mailto:%store_email'>%store_email</a>","Si vous avez des questions, vous pouvez nous envoyer un e-mail à l'adresse <a href='mailto:%store_email'>%store_email</a>",module,Magento_Sales
+"or call us at <a href='tel:%store_phone'>%store_phone</a>","ou nous contacter par téléphone au <a href='tel:%store_phone'>%store_phone</a>",module,Magento_Sales
+"Items In Your Order <span class='no-link'>#%increment_id</span>","Articles Dans Votre Commande <span class='no-link'>#%increment_id</span>",module,Magento_Sales
+"Our working hours are <span class='no-link'>%store_hours</span>.","Nos heures de travail sont <span class='no-link'>%store_hours</span>.",module,Magento_Sales
