@@ -1900,7 +1900,7 @@ Credit,Credit
 "Credit memo #%1 comment added","Commentaire ajouté pour l’avoir #%1"
 "Credit memo #%1 created","Avoir #%1 créé"
 "Credit memo's total must be positive.","Le total de l’avoir doit être positif."
-"Credit memo for your %store_name order","Avoir pour votre commande %store_name"
+"Credit memo for your %store_name order","Remboursement de votre commande %store_name"
 "Credit memo has not been canceled.","L’avoir n’a pas été annulé."
 "Credits are not supported by this processor","Crédits non supportés par ce service de paiement"
 "Credits cannot be cloned.","Les crédits ne peuvent être clonés."
